@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate for many things
 - 💬 Ask me about anything
 - 📫 How to reach me: alessandro.danna@icloud.com
+- 🔑 Gpg Public Key: CCCF 2886 5729 8879
 
 
